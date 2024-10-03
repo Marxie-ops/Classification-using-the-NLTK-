@@ -31,7 +31,8 @@ Identify the most influential features contributing to spam classification.
 Analyze common words in spam and ham messages using techniques like word clouds or bar plots.
 Conclusion
 Summarize key findings and potential improvements for further development.
-Report: Naive Bayes Classification Results
+
+# Report: Naive Bayes Classification Results
 
 1. Model Overview
 
