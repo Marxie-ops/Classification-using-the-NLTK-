@@ -1,4 +1,4 @@
-# Natural-Language-Processing
+# CLASSIFICATION
  ##  Spam Detection Using Naive Bayes Algorithm
 
 This project implements a classification model using the Naive Bayes algorithm to predict whether a given SMS message is spam or not.
